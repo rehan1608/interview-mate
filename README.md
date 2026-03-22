@@ -1,6 +1,6 @@
 # Prep.AI 🤖 — The Neural Interview Engine
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Vercel-blue?style=for-the-badge&logo=vercel)]([YOUR_LIVE_VERCEL_LINK])
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Vercel-blue?style=for-the-badge&logo=vercel)](https://prep-ai-psi-gilt.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/rehan1608/interview-mate)
 
 > Built for the **Thinkly Labs Software Engineering Assignment**. Prep.AI moves beyond generic chatbots to provide a high-fidelity, high-stakes mock interview experience.
